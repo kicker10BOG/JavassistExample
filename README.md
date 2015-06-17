@@ -1,5 +1,5 @@
 # Javassist Example
-This code is slightly modified from javapapers.com/core-java/java-instrumentation/ which is
+This code is slightly modified from [javapapers.com/core-java/java-instrumentation/](javapapers.com/core-java/java-instrumentation/) which is
 a very good example of how to start using Javassist. 
 
 ### To compile
