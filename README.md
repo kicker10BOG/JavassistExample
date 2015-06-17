@@ -9,7 +9,7 @@ a very good example of how to start using Javassist.
   2. Type: `jar cvfm example.jar ..\META-INF\MANIFEST.MF .` 
 
 ### To Run
-From the command line, type: 
+From the command line in the "bin" directory, type: 
 ```
 java -cp .;.\javassist.jar -javaagent:.\example.jar javassistExample.TestInstrumentation
 ```
