@@ -6,4 +6,8 @@ public class Lion {
 		System.out.println("Lion is going to run........");
 		Thread.sleep(2000L);
 	}
+	
+	public void roar(String str) {
+		System.out.println("Lion is roaring........ "+str);
+	}
 }
