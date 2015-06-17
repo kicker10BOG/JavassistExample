@@ -10,4 +10,6 @@ a very good example of how to start using Javassist.
 
 ### To Run
 From the command line, type: 
-  `java -cp .;.\javassist.jar -javaagent:.\example.jar javassistExample.TestInstrumentation`
+```
+java -cp .;.\javassist.jar -javaagent:.\example.jar javassistExample.TestInstrumentation
+```
